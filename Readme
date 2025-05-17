@@ -1,0 +1,7 @@
+# Calculadora de Sueldo Neto 🇩🇴
+
+Aplicación web desarrollada con Reflex para calcular el sueldo neto en República Dominicana.
+
+Incluye:
+- Cálculo de AFP, SFS, ISR, bonificación.
+- Interfaz interactiva con inputs y botón de cálculo.
