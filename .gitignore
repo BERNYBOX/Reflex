@@ -1,0 +1,20 @@
+.web
+.states
+*.db
+*.py[cod]
+assets/external/
+__pycache__/
+
+# Entorno virtual
+Reflex/
+venv/
+env/
+
+# Archivos de configuración del sistema
+*.pyc
+__pycache__/
+.DS_Store
+
+# Carpetas generadas por Reflex
+.web/
+__reflex__/
